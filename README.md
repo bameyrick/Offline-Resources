@@ -1,4 +1,4 @@
-Offline Resources
+Offline Resources (Alpha)
 =================
 
 Download resources using AJAX and store for temporary offline usage.
